@@ -1,0 +1,2 @@
+model_checkpoint_path: "vf_target"
+all_model_checkpoint_paths: "vf_target"
