@@ -3,7 +3,7 @@ Implementation of simple motion planning task and deep reinforcement learning wi
 
 The goal of our agent is to find the best path(fast and safe). For reinforcement learning algorithm, I used TD3 and SAC for training.
 
-This repository contains 3 environment : 2-DOF, 3-DOF, 3-DOF with two arms. And those have very few difference with each other. 
+This repository contains 3 environments : 2-DOF, 3-DOF, 3-DOF with two arms. And those have very few difference with each other. 
 
 I hope it would be helpful for your study.
 
@@ -52,4 +52,6 @@ numpy>=1.16
  
 ![3srr](https://user-images.githubusercontent.com/26384442/83638961-f339cf00-a5e4-11ea-8e8b-302d78c9b087.JPG)
 #### sac her for 3-DOF
+
+
 
