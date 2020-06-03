@@ -42,5 +42,14 @@ numpy>=1.16
 <br/>
 
 
-## Result
-![3d_td3](./path_plan_3d_dist/3rr.jpg)
+## Training Result
+![3rr](https://user-images.githubusercontent.com/26384442/83638872-ca193e80-a5e4-11ea-9669-9ce07386179f.JPG)
+#### td3 her for 3-DOF
+
+<br/>
+
+<br/>
+ 
+![3srr](https://user-images.githubusercontent.com/26384442/83638961-f339cf00-a5e4-11ea-8e8b-302d78c9b087.JPG)
+#### sac her for 3-DOF
+
